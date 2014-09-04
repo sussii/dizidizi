@@ -1,0 +1,35 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Library/CurrentLayout.dwlt
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	deleted:    Library/ScriptAssemblies/CompilationCompleted.txt
+#	modified:   Library/ScriptMapper
+#	modified:   Library/assetDatabase3
+#	modified:   Library/expandedItems
+#	modified:   Library/guidmapper
+#
+# Untracked files:
+#	Assembly-CSharp-Editor-vs.csproj
+#	Assembly-CSharp-Editor.csproj
+#	Assembly-CSharp-vs.csproj
+#	Assembly-CSharp.csproj
+#	Assets/Dizi/Scripts.meta
+#	Assets/Dizi/Scripts/
+#	Dizi/
+#	Library/metadata/0d/0d07ab70113cf8d42ac84aada1032f51
+#	Library/metadata/26/
+#	Library/metadata/67/671d0e487be66d247a620a7a83e519b1
+#	Library/metadata/d1/d12d89c5cfe408a44af78354be9c2f18
+#	Library/metadata/d3/d3d849855b83740458292d54b18bcf2b
+#	Library/metadata/ef/efe010dd4957ef54bbdf13becd14589c
+#	dizi-csharp.sln
+#	dizi.sln
+#	dizi.userprefs
+#
+
